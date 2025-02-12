@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+//creation of schema
 
 // Schema
 const sch = {
